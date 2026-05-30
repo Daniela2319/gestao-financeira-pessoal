@@ -44,7 +44,6 @@ class LoginView:
         # Preencher combobox com usuários existentes
         usuarios = self.auth_model.listar_usuarios()
         self.entry_username["values"] = usuarios
-        print("Usuários disponíveis para login:", usuarios)
 
         # Password
         ttk.Label(frame_form, text="Senha:", font=("Arial", 11)).grid(
