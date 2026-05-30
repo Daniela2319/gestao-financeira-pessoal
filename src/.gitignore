@@ -1,0 +1,40 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Cache pytest
+.pytest_cache/
+
+# Arquivos de build
+build/
+dist/
+
+# Arquivos gerados pelo PyInstaller
+*.spec
+
+# Banco de dados local
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Configurações do VS Code
+.vscode/
+
+# Configurações do Windows
+Thumbs.db
+Desktop.ini
+
+# Arquivos temporários
+*.tmp
+*.bak
+
+# Arquivos de lock
+*.lock
