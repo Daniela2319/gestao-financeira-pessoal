@@ -13,8 +13,8 @@ Sistema de gestão financeira pessoal desenvolvido em Python, com controle de re
 
 ## 📦 Detalhes do Arquivo
 
-- **Nome:** `Controle-Despesas.exe`
-- **Localização:** `dist/Controle-Despesas.exe`
+- **Nome:** `main.exe`
+- **Localização:** `dist/main.exe`
 - **Tamanho:** ~42 MB
 - **Ícone:** Personalizado com tema de controle de despesas (símbolo R$)
 - **Tipo:** Aplicação GUI sem console (windowed)
@@ -23,7 +23,7 @@ Sistema de gestão financeira pessoal desenvolvido em Python, com controle de re
 
 ### Primeira Execução
 
-1. Clique duas vezes em `Controle-Despesas.exe`
+1. Clique duas vezes em `main.exe`
 2. Na tela de login, clique em **"Registrar Novo Usuário"**
 3. Digite seu nome de usuário e senha (mínimo 4 caracteres)
 4. Confirme a senha
@@ -31,7 +31,7 @@ Sistema de gestão financeira pessoal desenvolvido em Python, com controle de re
 
 ### Execuções Posteriores
 
-1. Clique duas vezes em `Controle-Despesas.exe`
+1. Clique duas vezes em `main.exe`
 2. Digite seu usuário e senha
 3. Clique em "Login"
 4. Bem-vindo! ✨
@@ -58,7 +58,7 @@ Sistema de gestão financeira pessoal desenvolvido em Python, com controle de re
 
 ```
 dist/
-├── Controle-Despesas.exe          ← Executável principal
+├── main.exe          ← Executável principal
 └── ... (dependências incluidas)
 
 projeto/
